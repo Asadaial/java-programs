@@ -172,3 +172,5 @@ public class QuickFindUF {
     }
 
 }
+
+Quick Union ka  ni kia?
